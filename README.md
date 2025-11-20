@@ -5,6 +5,9 @@ The goal: build a clean, industry-style workflow.
 
 ---
 
+`Python 3` `Pandas, NumPy` `Scikit-Learn` `Matplotlib, Seaborn` `Jupyter Notebook`
+
+ [Database from Kaggle](https://www.kaggle.com/code/kifayatullahe/red-wine-quality-prediction) 
 ## Project Highlights
 
 - Built **Scikit-Learn pipelines**
@@ -128,15 +131,5 @@ Observations:
 | **MAE** | ~0.40 |
 | **RMSE** | ~0.54 |
 | **R²** | ~0.56 |
-
----
-
-## Tech Stack
-
-- Python 3  
-- Pandas, NumPy  
-- Scikit-Learn  
-- Matplotlib, Seaborn  
-- Jupyter Notebook
 
 ---
